@@ -4,6 +4,20 @@
 
 See http://www.ghibli.jp/info/013344/ 
 
+I've compiled a list of URLs for image files of Studio Ghibli's wonderful movies.
+
+Studio Ghibli has started to provide photos of scenes from their films.　　https://www.ghibli.jp/info/013344/
+Within the bounds of common sense.
+
+I wanted to use it for my mac desktop, so I decided to get the image URL list and publish it on github.
+In addition, I wrote a script to retrieve them all at once in perl.
+This is get_images.pl. Just create an images directory in the same directory and run it.
+
+```
+$ mkdir images
+$ perl get_images.pl
+```
+
 
 ## 思い出のマーニー
 [marnie/marnie_images.md](marnie/marnie_images.md) 
